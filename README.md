@@ -1,6 +1,15 @@
 # Virtual-bill-board-projection
 This repository showcases the integration of projective geometry and homographies. Using a football match sequence, we've seamlessly projected the Penn Engineering logo onto moving goalposts. The result? Real-time, perspective-accurate overlays. Beyond football, this toolkit has potential in augmented reality, digital advertising, and cinema.
 
+## Real image:
+
+![barca_real001](https://github.com/Saibernard/Virtual-bill-board-projection/assets/112599512/6d773fcb-b145-40af-a5e1-ba05255f8886)
+
+## Warped image:
+
+![frame_125](https://github.com/Saibernard/Virtual-bill-board-projection/assets/112599512/f26d7eed-7cac-45ef-9268-24469dc023c6)
+
+
 This repository offers a deep dive into the application of projective geometry and homographies for real-world image projection. The challenge? Projecting the Penn Engineering logo onto the dynamically moving goalposts during a football match, while ensuring the logo seamlessly integrates with the scene's natural perspective.
 
 Leveraging a sequence of football match images, each paired with precise goal corner coordinates, this project demonstrates the power and precision of computational homographies. The result is a meticulously warped Penn logo, appearing as if it's an innate part of the football scene. While the demonstration's elegance may belie its complexity, the processes involved are a testament to projective transformation's profound capabilities.
